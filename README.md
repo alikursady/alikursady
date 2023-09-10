@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alikursady
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+ 👋 Hi, I’m @alikursady
+- 👀 i have no idea what i'm doing 
+- 🌱I'm not learning anything right now
+
 
 <!---
 alikursady/alikursady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
